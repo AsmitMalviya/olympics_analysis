@@ -34,7 +34,7 @@ Welcome to the **Olympics Analysis Dashboard**, an interactive web application b
 ## 📂 Project Structure
 /olympics_analysis/
 │
-├── app.py                     # Main Streamlit app for the dashboard
+├── app.py                     # Main Streamlit app for the dashboard /n
 ├── helper.py                  # Helper functions for analysis
 ├── preprocessor.py            # Data preprocessing logic
 ├── athlete_events.csv         # Dataset with athlete performance details
