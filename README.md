@@ -54,4 +54,17 @@ Welcome to the **Olympics Analysis Dashboard**, an interactive web application b
   - **index.html**: Main HTML template.  
   - **analysis.html**: Template for analysis results.  
 
+## 🗂️ Dataset
 
+The analysis is based on the dataset **"120 Years of Olympic History: Athletes and Results"**, available on Kaggle.
+
+- **Dataset Link**: [120 Years of Olympic History - Kaggle](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
+
+### Dataset Description:
+1. **Athlete Events Dataset** (`athlete_events.csv`):  
+   - Contains detailed information about Olympic athletes from 1896 to 2016:
+     - Name, age, sex, and nationality.
+     - Sport and event.
+     - Medals won.
+2. **NOC Regions Dataset** (`noc_regions.csv`):  
+   - Maps National Olympic Committees (NOCs) to their respective regions.
