@@ -78,6 +78,7 @@ Clone this repository to your local machine using the following command:
 ```bash
 git clone https://github.com/AsmitMalviya/olympics_analysis.git
 cd olympics_analysis
+```bash
 
 ### 2. Install Dependencies
 Ensure you have Python 3.7+ installed. Then, install the required Python libraries:
