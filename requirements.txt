@@ -6,3 +6,4 @@ matplotlib==3.7.1
 seaborn==0.12.2
 streamlit-lottie==0.0.3
 scikit-learn==1.2.2
+cython==0.29.36
