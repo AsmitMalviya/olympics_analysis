@@ -68,3 +68,14 @@ The analysis is based on the dataset **"120 Years of Olympic History: Athletes a
      - Medals won.
 2. **NOC Regions Dataset** (`noc_regions.csv`):  
    - Maps National Olympic Committees (NOCs) to their respective regions.
+  
+## 🛠️ Installation and Usage
+
+Follow the steps below to set up and run the Olympics Analysis Dashboard on your local machine:
+
+### 1. Clone the Repository
+Clone this repository to your local machine using the following command:
+```bash
+git clone https://github.com/AsmitMalviya/olympics_analysis.git
+cd olympics_analysis
+
