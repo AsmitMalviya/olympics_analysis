@@ -96,3 +96,8 @@ This will launch the app in your default web browser. If it doesn’t open autom
 
 ## 🚀 Live Demo
 Check out the live version of the app here: [Olympics Analysis Dashboard](https://olympics-insights.streamlit.app/)
+
+## 🎥 Screenshots
+  
+### 1. Welcome Screen  
+![Welcome Screen](https://raw.githubusercontent.com/yourusername/olympics_analysis/main/screenshots/welcome_screen.png)
