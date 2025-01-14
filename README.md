@@ -92,3 +92,7 @@ Start the Streamlit server by running:
 streamlit run app.py
 ```
 This will launch the app in your default web browser. If it doesn’t open automatically, navigate to http://localhost:8501.
+
+
+## 🚀 Live Demo
+Check out the live version of the app here: Olympics Analysis Dashboard
