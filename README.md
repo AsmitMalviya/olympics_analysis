@@ -100,4 +100,35 @@ Check out the live version of the app here: [Olympics Analysis Dashboard](https:
 ## 🎥 Screenshots
   
 ### 1. Welcome Screen  
-![Welcome Screen](https://imgur.com/ksbcMef)
+![Welcome Screen](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20191639.png?raw=true)
+
+### 2. Medal Tally Section
+![Medal Tally Section](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20191910.png?raw=true)
+
+### 3. Country-Wise Analysis
+![Country-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20192520.png?raw=true)
+![Country-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20192611.png?raw=true)
+
+### 4. Overall Analysis
+![Overall Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20192653.png?raw=true)
+![Overall Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20192916.png?raw=true)
+
+### 5. Athlete-Wise Analysis
+![Athlete-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20193109.png?raw=true)
+![Athlete-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20193128.png?raw=true)
+![Athlete-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20193151.png?raw=true)
+
+## 💡 Technologies Used
+- **Streamlit**:  Interactive web app framework.
+- **Pandas**:  Data manipulation and analysis.
+- **Numpy**:  Numerical computations.
+- **Plotly**:   Interactive visualizations.
+- **Matplotlib**:  Data visualizations.
+- **Seaborn**:  Advanced visualizations.   
+- **Scikit-Learn**:  Machine learning preprocessing.
+
+## 📧 Contact
+Feel free to reach out with feedback or questions:
+- **Name**:  Asmit Malviya
+- **Email**:  asmitmalviya08@gmail.com
+- **GitHub**:  AsmitMalviya
