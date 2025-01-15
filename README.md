@@ -113,8 +113,16 @@ Check out the live version of the app here: [Olympics Analysis Dashboard](https:
 ![Overall Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20192653.png?raw=true)
 ![Overall Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20192916.png?raw=true)
 
-### 4. Athlete-Wise Analysis
+### 5. Athlete-Wise Analysis
 ![Athlete-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20193109.png?raw=true)
 ![Athlete-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20193128.png?raw=true)
 ![Athlete-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20193151.png?raw=true)
 
+## Technologies Used
+Streamlit: Interactive web app framework.
+Pandas: Data manipulation and analysis.
+Numpy: Numerical computations.
+Plotly: Interactive visualizations.
+Matplotlib: Data visualizations.
+Seaborn: Advanced visualizations.
+Scikit-Learn: Machine learning preprocessing.
