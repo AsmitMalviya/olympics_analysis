@@ -100,4 +100,4 @@ Check out the live version of the app here: [Olympics Analysis Dashboard](https:
 ## 🎥 Screenshots
   
 ### 1. Welcome Screen  
-![Welcome Screen](https://imgur.com/ksbcMef)
+![Welcome Screen](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20191639.png?raw=true))
