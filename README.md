@@ -100,4 +100,7 @@ Check out the live version of the app here: [Olympics Analysis Dashboard](https:
 ## 🎥 Screenshots
   
 ### 1. Welcome Screen  
-![Welcome Screen](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20191639.png?raw=true))
+![Welcome Screen](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20191639.png?raw=true)
+
+### 2. Medal Tally Section
+![Medal Tally Section](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20191910.png?raw=true)
