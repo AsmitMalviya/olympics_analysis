@@ -119,4 +119,4 @@ Check out the live version of the app here: [Olympics Analysis Dashboard](https:
 ![Athlete-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20193151.png?raw=true)
 
 ## Technologies Used
-- **app.py**: Main Streamlit app for the dashboard.  
+- **Streamlit**:  Interactive web app framework.  
