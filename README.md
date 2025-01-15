@@ -104,3 +104,17 @@ Check out the live version of the app here: [Olympics Analysis Dashboard](https:
 
 ### 2. Medal Tally Section
 ![Medal Tally Section](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20191910.png?raw=true)
+
+### 3. Country-Wise Analysis
+![Country-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20192520.png?raw=true)
+![Country-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20192611.png?raw=true)
+
+### 4. Overall Analysis
+![Overall Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20192653.png?raw=true)
+![Overall Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20192916.png?raw=true)
+
+### 4. Athlete-Wise Analysis
+![Athlete-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20193109.png?raw=true)
+![Athlete-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20193128.png?raw=true)
+![Athlete-Wise Analysis](https://github.com/AsmitMalviya/olympics_analysis/blob/main/screenshot/Screenshot%202025-01-14%20193151.png?raw=true)
+
